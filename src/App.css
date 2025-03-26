@@ -1,0 +1,12 @@
+/* write your css here */
+
+.summary{
+    margin: 10px 0;
+    line-height: 1.8rem;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    letter-spacing: 0.8px;
+    font-family: cursive;
+}

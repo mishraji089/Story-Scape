@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Niconne&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Niconne&family=Salsa&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
